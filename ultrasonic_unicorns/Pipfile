@@ -13,5 +13,5 @@ coverage = "*"
 python_version = "3.7"
 
 [scripts]
-lint = "python -m flake8 -v"
+lint = "python -m flake8"
 test = "python -m unittest discover -v -s tests"

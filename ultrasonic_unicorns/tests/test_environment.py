@@ -1,5 +1,5 @@
 from unittest import TestCase
-
+long_line = "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddfehgiuenguineiugbjqwbnijbvnqrijbnijeqnbijreqbnjgibrifgnqrwiugnriqbngihiugribnjnbjsdfnbjdsfnbjsfjdndddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
 
 class TestAlwaysPass(TestCase):
     def test_true_is_true(self):
